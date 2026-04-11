@@ -27,3 +27,4 @@ A simulation of a distributed computing system with fault tolerance and node cra
 ## Output Preview
 - Node crash detected
 - Tasks redistributed automatically
+- Simulation completes successfully
